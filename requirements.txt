@@ -1,0 +1,2 @@
+pandas
+sqlite3  # Note: built-in with Python, no need to install
